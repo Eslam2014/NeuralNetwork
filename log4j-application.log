@@ -1,0 +1,435 @@
+2016-12-24 16:37:40 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 17:17:27 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 17:17:27 INFO  SLP:20 - start run SLP
+2016-12-24 17:17:27 INFO  SLP:26 - SLP start learning
+2016-12-24 17:17:27 INFO  LMS:20 - LMS start learning neural
+2016-12-24 17:18:26 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 17:18:26 INFO  SLP:20 - start run SLP
+2016-12-24 17:18:26 INFO  SLP:26 - SLP start learning
+2016-12-24 17:18:26 INFO  LMS:20 - LMS start learning neural
+2016-12-24 17:19:41 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 17:19:41 INFO  SLP:20 - start run SLP
+2016-12-24 17:19:41 INFO  SLP:26 - SLP start learning
+2016-12-24 17:19:41 INFO  LMS:20 - LMS start learning neural
+2016-12-24 17:20:50 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 17:20:50 INFO  SLP:20 - start run SLP
+2016-12-24 17:20:50 INFO  SLP:26 - SLP start learning
+2016-12-24 17:20:50 INFO  LMS:20 - LMS start learning neural
+2016-12-24 17:20:50 INFO  LMS:47 - LMS finished learning final mse :0.09934134818782232after:21 apoch
+2016-12-24 17:20:50 INFO  LMS:53 - LMS start test neural
+2016-12-24 17:20:50 INFO  LMS:66 - LMS finish test neural with accuracy:0.0
+2016-12-24 17:22:48 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 17:22:48 INFO  SLP:20 - start run SLP
+2016-12-24 17:22:48 INFO  SLP:26 - SLP start learning
+2016-12-24 17:23:40 INFO  LMS:20 - LMS start learning neural
+2016-12-24 17:25:58 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 17:25:58 INFO  SLP:20 - start run SLP
+2016-12-24 17:25:58 INFO  SLP:26 - SLP start learning
+2016-12-24 17:25:58 INFO  LMS:20 - LMS start learning neural
+2016-12-24 17:25:58 INFO  LMS:47 - LMS finished learning final mse :0.09852136226180959after:21 apoch
+2016-12-24 17:25:58 INFO  LMS:53 - LMS start test neural
+2016-12-24 17:25:58 INFO  LMS:66 - LMS finish test neural with accuracy:100.0
+2016-12-24 17:28:29 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 17:28:29 INFO  SLP:20 - start run SLP
+2016-12-24 17:28:29 INFO  SLP:26 - SLP start learning
+2016-12-24 17:28:29 INFO  LMS:20 - LMS start learning neural
+2016-12-24 17:28:29 INFO  LMS:47 - LMS finished learning final mse :0.09916022800945196after:21 apoch
+2016-12-24 17:28:29 INFO  LMS:53 - LMS start test neural
+2016-12-24 17:28:29 INFO  LMS:66 - LMS finish test neural with accuracy:100.0
+2016-12-24 17:29:48 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 17:29:48 INFO  SLP:20 - start run SLP
+2016-12-24 17:29:48 INFO  SLP:26 - SLP start learning
+2016-12-24 17:29:48 INFO  LMS:20 - LMS start learning neural
+2016-12-24 17:29:48 INFO  LMS:46 - LMS finished learning final mse :0.09982928534878373after:20 apoch
+2016-12-24 17:29:48 INFO  LMS:52 - LMS start test neural
+2016-12-24 17:29:48 INFO  LMS:65 - LMS finish test neural with accuracy:100.0
+2016-12-24 17:31:54 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 17:31:54 INFO  SLP:20 - start run SLP
+2016-12-24 17:31:54 INFO  SLP:26 - SLP start learning
+2016-12-24 17:31:54 INFO  SLP:45 - SLP finished learn neural with accuracy:100.0
+2016-12-24 17:31:54 INFO  SLP:51 - SLP start testing neural network
+2016-12-24 17:31:54 INFO  SLP:61 - SLP finished test neural with accuracy:100.0
+2016-12-24 17:31:54 INFO  LMS:20 - LMS start learning neural
+2016-12-24 17:31:54 INFO  LMS:46 - LMS finished learning final mse :0.09898635341894778after:21 apoch
+2016-12-24 17:31:54 INFO  LMS:52 - LMS start test neural
+2016-12-24 17:31:54 INFO  LMS:65 - LMS finish test neural with accuracy:100.0
+2016-12-24 17:32:13 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 17:32:13 INFO  SLP:20 - start run SLP
+2016-12-24 17:32:13 INFO  SLP:26 - SLP start learning
+2016-12-24 17:32:13 INFO  SLP:45 - SLP finished learn neural with accuracy:100.0
+2016-12-24 17:32:13 INFO  SLP:51 - SLP start testing neural network
+2016-12-24 17:32:13 INFO  SLP:61 - SLP finished test neural with accuracy:94.73684210526315
+2016-12-24 17:32:13 INFO  LMS:20 - LMS start learning neural
+2016-12-24 17:32:13 INFO  LMS:46 - LMS finished learning final mse :0.09915006192535882after:22 apoch
+2016-12-24 17:32:13 INFO  LMS:52 - LMS start test neural
+2016-12-24 17:32:13 INFO  LMS:65 - LMS finish test neural with accuracy:100.0
+2016-12-24 17:32:48 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 17:32:48 INFO  SLP:20 - start run SLP
+2016-12-24 17:32:48 INFO  SLP:26 - SLP start learning
+2016-12-24 17:32:48 INFO  SLP:45 - SLP finished learn neural with accuracy:100.0
+2016-12-24 17:32:48 INFO  SLP:51 - SLP start testing neural network
+2016-12-24 17:32:48 INFO  SLP:61 - SLP finished test neural with accuracy:94.73684210526315
+2016-12-24 17:32:48 INFO  LMS:20 - LMS start learning neural
+2016-12-24 17:32:49 INFO  LMS:46 - LMS finished learning final mse :0.09868374855910726after:22 apoch
+2016-12-24 17:32:49 INFO  LMS:52 - LMS start test neural
+2016-12-24 17:32:49 INFO  LMS:65 - LMS finish test neural with accuracy:100.0
+2016-12-24 17:32:55 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 17:32:55 INFO  SLP:20 - start run SLP
+2016-12-24 17:32:55 INFO  SLP:26 - SLP start learning
+2016-12-24 17:32:55 INFO  SLP:45 - SLP finished learn neural with accuracy:100.0
+2016-12-24 17:32:55 INFO  SLP:51 - SLP start testing neural network
+2016-12-24 17:32:55 INFO  SLP:61 - SLP finished test neural with accuracy:94.73684210526315
+2016-12-24 17:32:55 INFO  LMS:20 - LMS start learning neural
+2016-12-24 17:32:55 INFO  LMS:46 - LMS finished learning final mse :0.09950354783775099after:21 apoch
+2016-12-24 17:32:55 INFO  LMS:52 - LMS start test neural
+2016-12-24 17:32:55 INFO  LMS:65 - LMS finish test neural with accuracy:100.0
+2016-12-24 17:33:06 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 17:33:06 INFO  SLP:20 - start run SLP
+2016-12-24 17:33:06 INFO  SLP:26 - SLP start learning
+2016-12-24 17:33:06 INFO  SLP:45 - SLP finished learn neural with accuracy:100.0
+2016-12-24 17:33:06 INFO  SLP:51 - SLP start testing neural network
+2016-12-24 17:33:06 INFO  SLP:61 - SLP finished test neural with accuracy:100.0
+2016-12-24 17:33:06 INFO  LMS:20 - LMS start learning neural
+2016-12-24 17:33:06 INFO  LMS:46 - LMS finished learning final mse :0.17994664864772109after:8 apoch
+2016-12-24 17:33:06 INFO  LMS:52 - LMS start test neural
+2016-12-24 17:33:06 INFO  LMS:65 - LMS finish test neural with accuracy:89.47368421052632
+2016-12-24 18:14:02 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 18:14:02 INFO  SLP:20 - start run SLP
+2016-12-24 18:14:02 INFO  SLP:26 - SLP start learning
+2016-12-24 18:14:02 INFO  SLP:45 - SLP finished learn neural with accuracy:100.0
+2016-12-24 18:14:02 INFO  SLP:51 - SLP start testing neural network
+2016-12-24 18:14:02 INFO  SLP:61 - SLP finished test neural with accuracy:94.73684210526315
+2016-12-24 18:14:02 INFO  LMS:20 - LMS start learning neural
+2016-12-24 18:14:02 INFO  LMS:46 - LMS finished learning final mse :0.09988725726897678after:21 apoch
+2016-12-24 18:14:02 INFO  LMS:52 - LMS start test neural
+2016-12-24 18:14:02 INFO  LMS:65 - LMS finish test neural with accuracy:100.0
+2016-12-24 18:14:21 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 18:14:21 INFO  SLP:20 - start run SLP
+2016-12-24 18:14:21 INFO  SLP:26 - SLP start learning
+2016-12-24 18:14:21 INFO  SLP:45 - SLP finished learn neural with accuracy:100.0
+2016-12-24 18:14:21 INFO  SLP:51 - SLP start testing neural network
+2016-12-24 18:14:21 INFO  SLP:61 - SLP finished test neural with accuracy:100.0
+2016-12-24 18:14:21 INFO  LMS:20 - LMS start learning neural
+2016-12-24 18:14:22 INFO  LMS:46 - LMS finished learning final mse :0.09939696654255806after:21 apoch
+2016-12-24 18:14:22 INFO  LMS:52 - LMS start test neural
+2016-12-24 18:14:22 INFO  LMS:65 - LMS finish test neural with accuracy:100.0
+2016-12-24 18:15:06 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 18:15:06 INFO  SLP:20 - start run SLP
+2016-12-24 18:15:06 INFO  SLP:26 - SLP start learning
+2016-12-24 18:15:06 INFO  SLP:45 - SLP finished learn neural with accuracy:100.0
+2016-12-24 18:15:06 INFO  SLP:51 - SLP start testing neural network
+2016-12-24 18:15:06 INFO  SLP:61 - SLP finished test neural with accuracy:89.47368421052632
+2016-12-24 18:15:06 INFO  LMS:20 - LMS start learning neural
+2016-12-24 18:15:06 INFO  LMS:46 - LMS finished learning final mse :0.09928854879604855after:22 apoch
+2016-12-24 18:15:06 INFO  LMS:52 - LMS start test neural
+2016-12-24 18:15:06 INFO  LMS:65 - LMS finish test neural with accuracy:100.0
+2016-12-24 18:15:35 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 18:15:35 INFO  SLP:20 - start run SLP
+2016-12-24 18:15:35 INFO  SLP:26 - SLP start learning
+2016-12-24 18:15:35 INFO  SLP:45 - SLP finished learn neural with accuracy:100.0
+2016-12-24 18:15:35 INFO  SLP:51 - SLP start testing neural network
+2016-12-24 18:15:35 INFO  SLP:61 - SLP finished test neural with accuracy:100.0
+2016-12-24 18:15:35 INFO  LMS:20 - LMS start learning neural
+2016-12-24 18:15:35 INFO  LMS:46 - LMS finished learning final mse :0.09863106413113618after:21 apoch
+2016-12-24 18:15:35 INFO  LMS:52 - LMS start test neural
+2016-12-24 18:15:35 INFO  LMS:65 - LMS finish test neural with accuracy:100.0
+2016-12-24 18:15:57 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 18:15:57 INFO  SLP:20 - start run SLP
+2016-12-24 18:15:57 INFO  SLP:26 - SLP start learning
+2016-12-24 18:15:57 INFO  SLP:45 - SLP finished learn neural with accuracy:100.0
+2016-12-24 18:15:57 INFO  SLP:51 - SLP start testing neural network
+2016-12-24 18:15:57 INFO  SLP:61 - SLP finished test neural with accuracy:100.0
+2016-12-24 18:15:57 INFO  LMS:20 - LMS start learning neural
+2016-12-24 18:15:57 INFO  LMS:46 - LMS finished learning final mse :0.0991071963964732after:22 apoch
+2016-12-24 18:15:57 INFO  LMS:52 - LMS start test neural
+2016-12-24 18:15:57 INFO  LMS:65 - LMS finish test neural with accuracy:100.0
+2016-12-24 18:17:02 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 18:17:02 INFO  SLP:20 - start run SLP
+2016-12-24 18:17:02 INFO  SLP:26 - SLP start learning
+2016-12-24 18:17:02 INFO  SLP:45 - SLP finished learn neural with accuracy:100.0
+2016-12-24 18:17:02 INFO  SLP:51 - SLP start testing neural network
+2016-12-24 18:17:02 INFO  SLP:61 - SLP finished test neural with accuracy:100.0
+2016-12-24 18:17:02 INFO  LMS:20 - LMS start learning neural
+2016-12-24 18:17:02 INFO  LMS:46 - LMS finished learning final mse :0.09997006817407722after:20 apoch
+2016-12-24 18:17:02 INFO  LMS:52 - LMS start test neural
+2016-12-24 18:17:02 INFO  LMS:65 - LMS finish test neural with accuracy:100.0
+2016-12-24 18:17:13 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 18:17:13 INFO  SLP:20 - start run SLP
+2016-12-24 18:17:13 INFO  SLP:26 - SLP start learning
+2016-12-24 18:17:13 INFO  SLP:45 - SLP finished learn neural with accuracy:100.0
+2016-12-24 18:17:13 INFO  SLP:51 - SLP start testing neural network
+2016-12-24 18:17:13 INFO  SLP:61 - SLP finished test neural with accuracy:100.0
+2016-12-24 18:17:13 INFO  LMS:20 - LMS start learning neural
+2016-12-24 18:17:13 INFO  LMS:46 - LMS finished learning final mse :0.09939915350945458after:17 apoch
+2016-12-24 18:17:13 INFO  LMS:52 - LMS start test neural
+2016-12-24 18:17:25 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 18:17:25 INFO  SLP:20 - start run SLP
+2016-12-24 18:17:25 INFO  SLP:26 - SLP start learning
+2016-12-24 18:17:25 INFO  SLP:45 - SLP finished learn neural with accuracy:100.0
+2016-12-24 18:17:25 INFO  SLP:51 - SLP start testing neural network
+2016-12-24 18:17:25 INFO  SLP:61 - SLP finished test neural with accuracy:100.0
+2016-12-24 18:17:25 INFO  LMS:20 - LMS start learning neural
+2016-12-24 18:17:25 INFO  LMS:46 - LMS finished learning final mse :0.09914486914704186after:17 apoch
+2016-12-24 18:17:25 INFO  LMS:52 - LMS start test neural
+2016-12-24 18:17:25 INFO  LMS:65 - LMS finish test neural with accuracy:100.0
+2016-12-24 18:27:11 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 18:27:11 INFO  SLP:20 - start run SLP
+2016-12-24 18:27:11 INFO  SLP:26 - SLP start learning
+2016-12-24 18:27:11 INFO  SLP:45 - SLP finished learn neural with accuracy:100.0
+2016-12-24 18:27:11 INFO  SLP:51 - SLP start testing neural network
+2016-12-24 18:27:11 INFO  SLP:61 - SLP finished test neural with accuracy:100.0
+2016-12-24 18:27:11 INFO  LMS:20 - LMS start learning neural
+2016-12-24 18:27:11 INFO  LMS:46 - LMS finished learning final mse :0.09983908946840019after:20 apoch
+2016-12-24 18:27:11 INFO  LMS:52 - LMS start test neural
+2016-12-24 18:27:11 INFO  LMS:65 - LMS finish test neural with accuracy:100.0
+2016-12-24 18:28:18 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 18:28:18 INFO  SLP:20 - start run SLP
+2016-12-24 18:28:18 INFO  SLP:26 - SLP start learning
+2016-12-24 18:28:18 INFO  SLP:45 - SLP finished learn neural with accuracy:94.87179487179486
+2016-12-24 18:28:18 INFO  SLP:51 - SLP start testing neural network
+2016-12-24 18:28:18 INFO  SLP:61 - SLP finished test neural with accuracy:94.73684210526315
+2016-12-24 18:28:18 INFO  LMS:20 - LMS start learning neural
+2016-12-24 18:28:18 INFO  LMS:46 - LMS finished learning final mse :0.09916424096384167after:17 apoch
+2016-12-24 18:28:18 INFO  LMS:52 - LMS start test neural
+2016-12-24 18:28:18 INFO  LMS:65 - LMS finish test neural with accuracy:100.0
+2016-12-24 18:29:50 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 18:29:50 INFO  SLP:20 - start run SLP
+2016-12-24 18:29:50 INFO  SLP:26 - SLP start learning
+2016-12-24 18:29:50 INFO  SLP:45 - SLP finished learn neural with accuracy:100.0
+2016-12-24 18:29:50 INFO  SLP:51 - SLP start testing neural network
+2016-12-24 18:29:50 INFO  SLP:61 - SLP finished test neural with accuracy:100.0
+2016-12-24 18:29:50 INFO  LMS:20 - LMS start learning neural
+2016-12-24 18:29:50 INFO  LMS:46 - LMS finished learning final mse :0.09991124054220367after:21 apoch
+2016-12-24 18:29:50 INFO  LMS:52 - LMS start test neural
+2016-12-24 18:29:50 INFO  LMS:65 - LMS finish test neural with accuracy:100.0
+2016-12-24 18:30:09 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 18:30:09 INFO  SLP:20 - start run SLP
+2016-12-24 18:30:09 INFO  SLP:26 - SLP start learning
+2016-12-24 18:30:09 INFO  SLP:45 - SLP finished learn neural with accuracy:100.0
+2016-12-24 18:30:09 INFO  SLP:51 - SLP start testing neural network
+2016-12-24 18:30:09 INFO  SLP:61 - SLP finished test neural with accuracy:100.0
+2016-12-24 18:30:09 INFO  LMS:20 - LMS start learning neural
+2016-12-24 18:30:09 INFO  LMS:46 - LMS finished learning final mse :0.09874275141516937after:21 apoch
+2016-12-24 18:30:09 INFO  LMS:52 - LMS start test neural
+2016-12-24 18:30:09 INFO  LMS:65 - LMS finish test neural with accuracy:100.0
+2016-12-24 18:31:20 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 18:31:20 INFO  SLP:20 - start run SLP
+2016-12-24 18:31:20 INFO  SLP:26 - SLP start learning
+2016-12-24 18:31:20 INFO  SLP:45 - SLP finished learn neural with accuracy:100.0
+2016-12-24 18:31:20 INFO  SLP:51 - SLP start testing neural network
+2016-12-24 18:31:20 INFO  SLP:61 - SLP finished test neural with accuracy:94.73684210526315
+2016-12-24 18:31:20 INFO  LMS:20 - LMS start learning neural
+2016-12-24 18:31:20 INFO  LMS:46 - LMS finished learning final mse :0.09838472522650576after:18 apoch
+2016-12-24 18:31:20 INFO  LMS:52 - LMS start test neural
+2016-12-24 18:31:20 INFO  LMS:65 - LMS finish test neural with accuracy:100.0
+2016-12-24 18:37:39 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 18:37:39 INFO  SLP:20 - start run SLP
+2016-12-24 18:37:39 INFO  SLP:26 - SLP start learning
+2016-12-24 18:37:39 INFO  SLP:45 - SLP finished learn neural with accuracy:94.87179487179486
+2016-12-24 18:37:39 INFO  SLP:51 - SLP start testing neural network
+2016-12-24 18:37:39 INFO  SLP:61 - SLP finished test neural with accuracy:94.73684210526315
+2016-12-24 18:37:39 INFO  LMS:20 - LMS start learning neural
+2016-12-24 18:37:39 INFO  LMS:46 - LMS finished learning final mse :0.09863472732416727after:21 apoch
+2016-12-24 18:37:39 INFO  LMS:52 - LMS start test neural
+2016-12-24 18:37:39 INFO  LMS:65 - LMS finish test neural with accuracy:100.0
+2016-12-24 18:49:41 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 18:49:41 INFO  SLP:20 - start run SLP
+2016-12-24 18:49:41 INFO  SLP:26 - SLP start learning
+2016-12-24 18:49:41 INFO  SLP:45 - SLP finished learn neural with accuracy:100.0
+2016-12-24 18:49:41 INFO  SLP:51 - SLP start testing neural network
+2016-12-24 18:49:41 INFO  SLP:61 - SLP finished test neural with accuracy:100.0
+2016-12-24 18:49:41 INFO  LMS:20 - LMS start learning neural
+2016-12-24 18:49:41 INFO  LMS:46 - LMS finished learning final mse :0.09941821512132953after:21 apoch
+2016-12-24 18:49:41 INFO  LMS:52 - LMS start test neural
+2016-12-24 18:49:41 INFO  LMS:65 - LMS finish test neural with accuracy:100.0
+2016-12-24 22:34:04 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 22:34:04 INFO  SLP:27 - start run SLP
+2016-12-24 22:34:04 INFO  SLP:33 - SLP start learning
+2016-12-24 22:34:04 INFO  SLP:53 - SLP finished learn neural with accuracy:100.0
+2016-12-24 22:34:04 INFO  SLP:59 - SLP start testing neural network
+2016-12-24 22:34:04 INFO  SLP:70 - SLP finished test neural with accuracy:100.0
+2016-12-24 22:34:04 INFO  LeastMeanSquare:26 - LMS start learning neural
+2016-12-24 22:34:04 INFO  LeastMeanSquare:52 - LMS finished learning final mse :0.09880194255941725after:21 apoch
+2016-12-24 22:34:04 INFO  LeastMeanSquare:58 - LMS start test neural
+2016-12-24 22:34:04 INFO  LeastMeanSquare:70 - LMS finish test neural with accuracy:100.0
+2016-12-24 22:34:05 INFO  MLP:21 - MLP start runing...
+2016-12-24 22:34:05 INFO  MLP:27 - MLP start learning...
+2016-12-24 22:34:05 INFO  MLP:51 - MLP finished learning last mse:9.524572144695609E-5
+2016-12-24 22:34:05 INFO  MLP:58 - MLP start testing...
+2016-12-24 22:34:05 INFO  MLP:80 - MLP finished testing with accuracy :100.0
+2016-12-24 22:35:31 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 22:35:31 INFO  SLP:27 - start run SLP
+2016-12-24 22:35:31 INFO  SLP:33 - SLP start learning
+2016-12-24 22:35:31 INFO  SLP:53 - SLP finished learn neural with accuracy:100.0
+2016-12-24 22:35:31 INFO  SLP:59 - SLP start testing neural network
+2016-12-24 22:35:31 INFO  SLP:70 - SLP finished test neural with accuracy:94.73684210526315
+2016-12-24 22:35:31 INFO  LeastMeanSquare:26 - LMS start learning neural
+2016-12-24 22:35:31 INFO  LeastMeanSquare:52 - LMS finished learning final mse :0.09988111865222661after:18 apoch
+2016-12-24 22:35:31 INFO  LeastMeanSquare:58 - LMS start test neural
+2016-12-24 22:35:31 INFO  LeastMeanSquare:70 - LMS finish test neural with accuracy:100.0
+2016-12-24 22:35:31 INFO  MLP:21 - MLP start runing...
+2016-12-24 22:35:31 INFO  MLP:27 - MLP start learning...
+2016-12-24 22:35:32 INFO  MLP:51 - MLP finished learning last mse:9.526560943989313E-5
+2016-12-24 22:35:32 INFO  MLP:58 - MLP start testing...
+2016-12-24 22:35:32 INFO  MLP:80 - MLP finished testing with accuracy :100.0
+2016-12-24 22:36:15 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 22:36:15 INFO  SLP:27 - start run SLP
+2016-12-24 22:36:15 INFO  SLP:33 - SLP start learning
+2016-12-24 22:36:15 INFO  SLP:53 - SLP finished learn neural with accuracy:100.0
+2016-12-24 22:36:15 INFO  SLP:59 - SLP start testing neural network
+2016-12-24 22:36:15 INFO  SLP:70 - SLP finished test neural with accuracy:100.0
+2016-12-24 22:36:15 INFO  LeastMeanSquare:26 - LMS start learning neural
+2016-12-24 22:36:15 INFO  LeastMeanSquare:52 - LMS finished learning final mse :0.09868822555935859after:18 apoch
+2016-12-24 22:36:15 INFO  LeastMeanSquare:58 - LMS start test neural
+2016-12-24 22:36:15 INFO  LeastMeanSquare:70 - LMS finish test neural with accuracy:100.0
+2016-12-24 22:36:16 INFO  MLP:21 - MLP start runing...
+2016-12-24 22:36:16 INFO  MLP:27 - MLP start learning...
+2016-12-24 22:36:16 INFO  MLP:51 - MLP finished learning last mse:9.772136853861862E-5
+2016-12-24 22:36:16 INFO  MLP:58 - MLP start testing...
+2016-12-24 22:36:16 INFO  MLP:80 - MLP finished testing with accuracy :95.0
+2016-12-24 22:39:20 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 22:39:20 INFO  SLP:27 - start run SLP
+2016-12-24 22:39:20 INFO  SLP:33 - SLP start learning
+2016-12-24 22:39:20 INFO  SLP:53 - SLP finished learn neural with accuracy:100.0
+2016-12-24 22:39:20 INFO  SLP:59 - SLP start testing neural network
+2016-12-24 22:39:20 INFO  SLP:70 - SLP finished test neural with accuracy:100.0
+2016-12-24 22:39:20 INFO  LeastMeanSquare:26 - LMS start learning neural
+2016-12-24 22:39:20 INFO  LeastMeanSquare:52 - LMS finished learning final mse :0.09970818018113563after:22 apoch
+2016-12-24 22:39:20 INFO  LeastMeanSquare:58 - LMS start test neural
+2016-12-24 22:39:20 INFO  LeastMeanSquare:70 - LMS finish test neural with accuracy:100.0
+2016-12-24 22:39:20 INFO  MLP:21 - MLP start runing...
+2016-12-24 22:39:20 INFO  MLP:27 - MLP start learning...
+2016-12-24 22:39:21 INFO  MLP:51 - MLP finished learning last mse:9.848441149165778E-5
+2016-12-24 22:39:21 INFO  MLP:58 - MLP start testing...
+2016-12-24 22:39:21 INFO  MLP:80 - MLP finished testing with accuracy :100.0
+2016-12-24 22:40:52 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 22:40:52 INFO  SLP:27 - start run SLP
+2016-12-24 22:40:52 INFO  SLP:33 - SLP start learning
+2016-12-24 22:40:52 INFO  SLP:53 - SLP finished learn neural with accuracy:100.0
+2016-12-24 22:40:52 INFO  SLP:59 - SLP start testing neural network
+2016-12-24 22:40:52 INFO  SLP:70 - SLP finished test neural with accuracy:100.0
+2016-12-24 22:40:52 INFO  LeastMeanSquare:26 - LMS start learning neural
+2016-12-24 22:40:52 INFO  LeastMeanSquare:52 - LMS finished learning final mse :0.09998005028346449after:21 apoch
+2016-12-24 22:40:52 INFO  LeastMeanSquare:58 - LMS start test neural
+2016-12-24 22:40:52 INFO  LeastMeanSquare:70 - LMS finish test neural with accuracy:100.0
+2016-12-24 22:40:53 INFO  MLP:21 - MLP start runing...
+2016-12-24 22:40:53 INFO  MLP:27 - MLP start learning...
+2016-12-24 22:40:53 INFO  MLP:51 - MLP finished learning last mse:9.473351405147455E-5
+2016-12-24 22:40:53 INFO  MLP:58 - MLP start testing...
+2016-12-24 22:40:53 INFO  MLP:80 - MLP finished testing with accuracy :95.0
+2016-12-24 22:40:54 INFO  MLP:21 - MLP start runing...
+2016-12-24 22:40:54 INFO  MLP:27 - MLP start learning...
+2016-12-24 22:42:45 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 22:42:45 INFO  SLP:27 - start run SLP
+2016-12-24 22:42:45 INFO  SLP:33 - SLP start learning
+2016-12-24 22:42:45 INFO  SLP:53 - SLP finished learn neural with accuracy:100.0
+2016-12-24 22:42:45 INFO  SLP:59 - SLP start testing neural network
+2016-12-24 22:42:45 INFO  SLP:70 - SLP finished test neural with accuracy:94.73684210526315
+2016-12-24 22:42:45 INFO  LeastMeanSquare:26 - LMS start learning neural
+2016-12-24 22:42:45 INFO  LeastMeanSquare:52 - LMS finished learning final mse :0.09919603647136548after:21 apoch
+2016-12-24 22:42:45 INFO  LeastMeanSquare:58 - LMS start test neural
+2016-12-24 22:42:45 INFO  LeastMeanSquare:70 - LMS finish test neural with accuracy:100.0
+2016-12-24 22:42:46 INFO  MLP:21 - MLP start runing...
+2016-12-24 22:42:46 INFO  MLP:27 - MLP start learning...
+2016-12-24 22:42:47 INFO  MLP:51 - MLP finished learning last mse:9.953088076168105E-5
+2016-12-24 22:42:47 INFO  MLP:58 - MLP start testing...
+2016-12-24 22:42:47 INFO  MLP:80 - MLP finished testing with accuracy :95.0
+2016-12-24 22:42:47 INFO  MLP:21 - MLP start runing...
+2016-12-24 22:42:47 INFO  MLP:27 - MLP start learning...
+2016-12-24 22:44:15 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 22:44:15 INFO  SLP:27 - start run SLP
+2016-12-24 22:44:15 INFO  SLP:33 - SLP start learning
+2016-12-24 22:44:16 INFO  SLP:53 - SLP finished learn neural with accuracy:100.0
+2016-12-24 22:44:16 INFO  SLP:59 - SLP start testing neural network
+2016-12-24 22:44:16 INFO  SLP:70 - SLP finished test neural with accuracy:100.0
+2016-12-24 22:44:16 INFO  LeastMeanSquare:26 - LMS start learning neural
+2016-12-24 22:44:16 INFO  LeastMeanSquare:52 - LMS finished learning final mse :0.09984186353358823after:20 apoch
+2016-12-24 22:44:16 INFO  LeastMeanSquare:58 - LMS start test neural
+2016-12-24 22:44:16 INFO  LeastMeanSquare:70 - LMS finish test neural with accuracy:100.0
+2016-12-24 22:44:16 INFO  MLP:21 - MLP start runing...
+2016-12-24 22:44:16 INFO  MLP:27 - MLP start learning...
+2016-12-24 22:44:17 INFO  MLP:51 - MLP finished learning last mse:9.488357031642324E-5
+2016-12-24 22:44:17 INFO  MLP:58 - MLP start testing...
+2016-12-24 22:44:17 INFO  MLP:80 - MLP finished testing with accuracy :90.0
+2016-12-24 22:44:18 INFO  MLP:21 - MLP start runing...
+2016-12-24 22:44:18 INFO  MLP:27 - MLP start learning...
+2016-12-24 22:50:03 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 22:50:04 INFO  MLP:21 - MLP start runing...
+2016-12-24 22:50:04 INFO  MLP:27 - MLP start learning...
+2016-12-24 22:51:05 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 22:51:07 INFO  MLP:21 - MLP start runing...
+2016-12-24 22:51:07 INFO  MLP:27 - MLP start learning...
+2016-12-24 22:51:37 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 22:51:39 INFO  MLP:21 - MLP start runing...
+2016-12-24 22:51:39 INFO  MLP:27 - MLP start learning...
+2016-12-24 22:52:13 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 22:52:15 INFO  MLP:21 - MLP start runing...
+2016-12-24 22:52:15 INFO  MLP:27 - MLP start learning...
+2016-12-24 22:52:34 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 22:52:36 INFO  MLP:21 - MLP start runing...
+2016-12-24 22:52:36 INFO  MLP:27 - MLP start learning...
+2016-12-24 22:53:02 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 22:53:03 INFO  MLP:21 - MLP start runing...
+2016-12-24 22:53:03 INFO  MLP:27 - MLP start learning...
+2016-12-24 22:53:03 INFO  MLP:51 - MLP finished learning last mse:0.0033476497698875954
+2016-12-24 22:53:03 INFO  MLP:58 - MLP start testing...
+2016-12-24 22:53:03 INFO  MLP:80 - MLP finished testing with accuracy :10.0
+2016-12-24 22:53:09 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 22:53:10 INFO  MLP:21 - MLP start runing...
+2016-12-24 22:53:10 INFO  MLP:27 - MLP start learning...
+2016-12-24 22:53:10 INFO  MLP:51 - MLP finished learning last mse:0.002935552887234199
+2016-12-24 22:53:10 INFO  MLP:58 - MLP start testing...
+2016-12-24 22:53:10 INFO  MLP:80 - MLP finished testing with accuracy :10.0
+2016-12-24 22:53:59 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 22:54:01 INFO  MLP:21 - MLP start runing...
+2016-12-24 22:54:01 INFO  MLP:27 - MLP start learning...
+2016-12-24 22:54:40 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 22:54:42 INFO  MLP:21 - MLP start runing...
+2016-12-24 22:54:42 INFO  MLP:27 - MLP start learning...
+2016-12-24 22:54:53 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 22:54:54 INFO  MLP:21 - MLP start runing...
+2016-12-24 22:54:54 INFO  MLP:27 - MLP start learning...
+2016-12-24 22:55:24 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 22:55:26 INFO  MLP:21 - MLP start runing...
+2016-12-24 22:55:26 INFO  MLP:27 - MLP start learning...
+2016-12-24 22:55:26 INFO  MLP:51 - MLP finished learning last mse:3.315066344313911E-6
+2016-12-24 22:55:26 INFO  MLP:58 - MLP start testing...
+2016-12-24 22:55:26 INFO  MLP:80 - MLP finished testing with accuracy :10.0
+2016-12-24 22:55:47 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 22:55:49 INFO  MLP:21 - MLP start runing...
+2016-12-24 22:55:49 INFO  MLP:27 - MLP start learning...
+2016-12-24 22:55:49 INFO  MLP:51 - MLP finished learning last mse:2.0048128253300804E-6
+2016-12-24 22:55:49 INFO  MLP:58 - MLP start testing...
+2016-12-24 22:55:49 INFO  MLP:80 - MLP finished testing with accuracy :10.0
+2016-12-24 22:56:22 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 22:56:24 INFO  MLP:21 - MLP start runing...
+2016-12-24 22:56:24 INFO  MLP:27 - MLP start learning...
+2016-12-24 22:56:41 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 22:56:42 INFO  MLP:21 - MLP start runing...
+2016-12-24 22:56:42 INFO  MLP:27 - MLP start learning...
+2016-12-24 22:56:42 INFO  MLP:51 - MLP finished learning last mse:9.135762075743439E-4
+2016-12-24 22:56:42 INFO  MLP:58 - MLP start testing...
+2016-12-24 22:56:42 INFO  MLP:80 - MLP finished testing with accuracy :10.0
+2016-12-24 22:56:50 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 22:56:52 INFO  MLP:21 - MLP start runing...
+2016-12-24 22:56:52 INFO  MLP:27 - MLP start learning...
+2016-12-24 23:07:47 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 23:33:37 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 23:34:51 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-24 23:49:12 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-25 00:05:35 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-25 00:06:10 INFO  MLP:21 - MLP start runing...
+2016-12-25 00:06:10 INFO  MLP:27 - MLP start learning...
+2016-12-25 01:21:20 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-25 01:21:29 INFO  MLP:21 - MLP start runing...
+2016-12-25 01:21:29 INFO  MLP:27 - MLP start learning...
+2016-12-25 01:22:49 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-25 01:29:24 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-25 01:29:33 INFO  MLP:21 - MLP start runing...
+2016-12-25 01:29:33 INFO  MLP:27 - MLP start learning...
+2016-12-25 01:29:33 INFO  MLP:51 - MLP finished learning last mse:1.4916569173398326E-4
+2016-12-25 01:29:33 INFO  MLP:58 - MLP start testing...
+2016-12-25 01:29:33 INFO  MLP:80 - MLP finished testing with accuracy :10.0
+2016-12-25 01:30:05 INFO  ReadSamples:176 - Total rows: 150 mapped to sample:100 noisy rows:0
+2016-12-25 01:30:15 INFO  MLP:21 - MLP start runing...
+2016-12-25 01:30:15 INFO  MLP:27 - MLP start learning...
